@@ -1,0 +1,16 @@
+.user {
+    margin-top: 10px;
+}
+.nameUser{
+    margin: 3px 0 3px 10px;
+    border: 1px solid black;
+    border-radius: 2px;
+}
+.numberUser{
+    margin: 3px 0 3px 10px;
+    border: 1px solid black;
+    border-radius: 2px;
+}
+@media (max-width:417px) {
+
+}
