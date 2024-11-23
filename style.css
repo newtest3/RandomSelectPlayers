@@ -11,6 +11,6 @@
     border: 1px solid black;
     border-radius: 2px;
 }
-@media (max-width:417px) {
-
+.main {
+    margin: 10px 20px;
 }
